@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834149846780",
+    "project_id": "nestohh-f6c04",
+    "storage_bucket": "nestohh-f6c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834149846780:android:f1ef490fc8569a5004d179",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834149846780-sat4met08pfbotoo24vf5gkq46qqbedr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzl2zVC6MubYaK055GBcWO9x-8_bJB8co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834149846780-sat4met08pfbotoo24vf5gkq46qqbedr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
